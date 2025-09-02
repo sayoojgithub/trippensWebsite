@@ -9,7 +9,7 @@ import AddTour from "./AddTour";
 import AddAward from "./AddAward";
 import AddTeamMember from "./AddTeamMember";
 import AddContact from "./AddContact";
-import HighlightTour from "./HighLightTour";
+import HighlightTour from "./HighlightTour";
 import EnquiredClients from "./EnquiredClients";
 import {
   ArrowLeft,
