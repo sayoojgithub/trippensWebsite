@@ -17,7 +17,7 @@
 // frontend/src/layout/Layout.jsx
 import React from "react";
 import { useLocation } from "react-router-dom";
-import TopBar from "../components/Topbar/Topbar";
+import TopBar from "../components/TopBar/TopBar";
 import Header from "../components/Header/Header";
 import TestimonialCarousel from "../pages/TestimonialCarousel";
 import EnquiryForm from "../pages/EnquiryForm";
